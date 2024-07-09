@@ -1,8 +1,8 @@
 - <h1>👋 Hi, I’m @NIMGNUOY</h1>
+- 🎉 birth : April 7th, 1993
+- 🎓 Education : Kookmin University, Department of Forestry, Environment, and Systems
 - 👀 I’m interested in FootBall⚽, Game🕹
-- 📫 How to contact me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 E-mail : ssong9214@gmail.com
 
 - <h2>TOP LANGUAGE</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIMGNUOY)](https://github.com/anuraghazra/github-readme-stats)
