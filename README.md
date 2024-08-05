@@ -3,6 +3,11 @@
 - 🎓 Education : Kookmin University, Department of Forestry, Environment, and Systems
 - 👀 I’m interested in FootBall⚽, Game🕹
 - 📫 E-mail : ssong9214@gmail.com
+- 🔗 ProjectLink
+  <br>
+  <a href="https://github.com/peb7544/petnolza">semi-project / Petnolza</a>
+  <br>
+  <a href="https://github.com/shong69/ddukddak_FINAL">final-project / DDUKDDAK</a>
 
 - <h2>TOP LANGUAGE</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIMGNUOY)](https://github.com/anuraghazra/github-readme-stats)
